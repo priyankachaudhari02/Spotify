@@ -19,8 +19,10 @@ public class HompageSpotify {
 			
 			public void clickOnSearchClick()
 			{
+				//searchClick.click();
 				searchClick.click();
 			}
-
+   
+	                
 
 }
